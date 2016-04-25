@@ -65,10 +65,11 @@ p {
 ==================================*/
 .app-icon {
     background-color: #fff;
-    background: url('../img/logo_.png') center;
+    background: url('../img/logo.png') center;
     height: 110px;
     margin: 0 auto 53px;
-    width: 76%;
+    width: 85%;
+    background-repeat: no-repeat;
 }
 
 .social-login {
